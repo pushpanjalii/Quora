@@ -1,0 +1,30 @@
+h1 {
+    color: brown;
+}
+
+.posts {
+    background-color: blanchedalmond;
+}
+
+.user {
+    font-style: italic;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.show {
+    color: blue;
+}
+
+/* .btn {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    
+} */
+
